@@ -1,6 +1,6 @@
 # get_good_news
 
-Get Good News is an api for retrieving feel good articles from across the web. Currently, artiocles are sourced forom three main sites with over 50 categories in the pool!
+Get Good News is an api for retrieving feel good articles from across the web. Currently, artiocles are sourced form three main sites with over 50 categories in the pool!
 
 You can access the api from my website:
 ```
